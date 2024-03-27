@@ -54,12 +54,13 @@ p{
 
 .default-btn{
     padding: 15px 20px;
-    background-color: #2cc76a;
+    margin-right: 10px;
+    background-color: #fcf6506e;
     border-radius: 5px;
 }
 
 .navbar-itens .default-btn:hover{
-    background-color: #22bb5f;
+    background-color: #FCF750;
     color: #232a31;
 }
 
@@ -72,10 +73,10 @@ p{
 }
 
 .main-banner h1, .main-banner p{
-    color: #fff;
+    color: #FCF750;
     text-align: center;
     font-weight: bold;
-    text-shadow: #000 3px 2px 3px;
+    text-shadow: #000000 3px 2px 3px;
 }
 
 .main-banner h1{
