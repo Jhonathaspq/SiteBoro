@@ -54,12 +54,21 @@ p{
 
 .default-btn{
     padding: 15px 20px;
+<<<<<<< HEAD:style.css
     background-color: #FBF74C;
+=======
+    margin-right: 10px;
+    background-color: #fcf6506e;
+>>>>>>> 1d6d86b611342cc0fbaa2a4a0dac18f02032c29c:site/style.css
     border-radius: 5px;
 }
 
 .navbar-itens .default-btn:hover{
+<<<<<<< HEAD:style.css
     background-color: #FBF74C;
+=======
+    background-color: #FCF750;
+>>>>>>> 1d6d86b611342cc0fbaa2a4a0dac18f02032c29c:site/style.css
     color: #232a31;
 }
 
@@ -72,10 +81,10 @@ p{
 }
 
 .main-banner h1, .main-banner p{
-    color: #fff;
+    color: #FCF750;
     text-align: center;
     font-weight: bold;
-    text-shadow: #000 3px 2px 3px;
+    text-shadow: #000000 3px 2px 3px;
 }
 
 .main-banner h1{
