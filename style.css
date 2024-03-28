@@ -54,18 +54,18 @@ p{
 
 .default-btn{
     padding: 15px 20px;
-    background-color: #2cc76a;
+    background-color: #FBF74C;
     border-radius: 5px;
 }
 
 .navbar-itens .default-btn:hover{
-    background-color: #22bb5f;
+    background-color: #FBF74C;
     color: #232a31;
 }
 
 /* main banner */
 .main-banner{
-    background-image: url(/site/img/oficina.png);
+    background-image: url('./img/oficina.PNG');
     padding: 10rem 0;
     background-size: cover;
     background-position: center;
