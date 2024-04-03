@@ -1,0 +1,17 @@
+/* BARRA DE NAVEGAÇÃO */
+
+.navbar-itens .default-btn {
+    
+    color: #000000;
+    padding: 15px 20px;
+    background-color: #FBF74C;
+    border-radius: 5px;
+}
+
+/* formulario */
+.formulario{
+    text-align: center;
+}
+.form{
+    position: absolute
+}
