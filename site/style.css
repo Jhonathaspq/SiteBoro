@@ -61,7 +61,7 @@ body {
 
 /* main banner */
 .main-banner {
-    background-image: url('./img/oficina.PNG');
+    background-image: url('../img/oficina.PNG');
     padding: 10rem 0;
     background-size: cover;
     background-position: center;

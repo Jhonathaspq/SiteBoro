@@ -14,21 +14,21 @@
     <div class="container">
         <div class="navbar-container">
             <nav>
-                <a href="./index.html">
-                    <img src="./img/IMG_1155.JPG" alt="logo garagem33" class="logo">
+                <a href="../site/index.php">
+                    <img src="../img/IMG_1155.JPG" alt="logo garagem33" class="logo">
                 </a>
                 <ul class="navbar-itens">
                     <li>
-                        <a href="./index.html">Home</a>
+                        <a href="../site/index.php">Home</a>
                     </li>
                     <li>
-                        <a href="./cliente.html">Cadastro de Clientes</a>
+                        <a href="../site/cliente.php">Cadastro de Clientes</a>
                     </li>
                     <li>
-                        <a href="contatos.html">Contatos</a>
+                        <a href="../site/contatos.php">Contatos</a>
                     </li>
                     <li>
-                        <a href="login.html" class="default-btn">Entrar</a>
+                        <a href="../site/login.php" class="default-btn">Entrar</a>
                     </li>
                 </ul>
             </nav>
