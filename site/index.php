@@ -22,7 +22,7 @@
                         <a href="../site/cliente.php">Cadastro de Clientes</a>
                     </li>
                     <li>
-                        <a href="../site/contatos.php">Contatos</a>
+                        <a href="../site/contatos.php">Orçamento</a>
                     </li>
                     <li>
                         <a href="../site/login.php" class="default-btn">Entrar</a>
