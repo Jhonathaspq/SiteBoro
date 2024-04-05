@@ -60,6 +60,9 @@ body {
 }
 
 /* main banner */
+.height-image{
+    height: 693px;
+}
 .main-banner {
     background-image: url('../img/oficina.PNG');
     padding: 10rem 0;
