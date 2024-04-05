@@ -1,27 +1,18 @@
 /* geral */
-* {
-    margin: 0;
-    padding: 0;
+body {
+    padding: 0px;
+    margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
-    box-sizing: border-box;
+    background-color: #858585c3;
 }
 
-h1,
-h2,
-h3 {
-    color: #333;
-}
-
-p {
-    color: #70747a;
-}
 
 /* Navbar */
 .navbar-container {
     width: 100%;
     height: 80px;
     background-color: #0B0B09;
-    padding: 0 2rem;
+    padding: 0;
 }
 
 .navbar-itens {
@@ -57,14 +48,15 @@ p {
 .navbar-itens .default-btn {
     color: #000000;
     padding: 15px 20px;
+    margin: 10px;
     background-color: #FBF74C;
     border-radius: 5px;
 }
 
 .navbar-itens .default-btn:hover {
-    <<<<<<< HEAD: style.css background-color: #FBF74C;
-    =======background-color: #FCF750;
-    >>>>>>>1d6d86b611342cc0fbaa2a4a0dac18f02032c29c: site/style.css color: #232a31;
+    background-color: #FBF74C;
+    background-color: #FCF750;
+    color: #232a31;
 }
 
 /* main banner */

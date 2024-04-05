@@ -4,28 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style.css">
     <script src="main.js"></script>
 
 </head>
 <body>
     <div class="navbar-container">
         <nav>
-            <a href="./index.html">
+            <a href="./index.php">
                 <img src="./img/IMG_1155.JPG" alt="logo garagem33" class="logo">
             </a>
             <ul class="navbar-itens">
                 <li>
-                    <a href="index.html">Home</a>
+                    <a href="./index.php">Home</a>
                 </li>
                 <li>
-                    <a href="./cliente.html">Cadastro de Clientes</a>
+                    <a href="./cliente.php">Cadastro de Clientes</a>
                 </li>
                 <li>
-                    <a href="contatos.html">Contatos</a>
+                    <a href="./contatos.php">Contatos</a>
                 </li>
                 <li>
-                    <a href="login.html" class="default-btn">Entrar</a>
+                    <a href="./login.php" class="default-btn">Entrar</a>
                 </li>
             </ul>
         </nav>
