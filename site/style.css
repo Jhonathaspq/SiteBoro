@@ -3,7 +3,7 @@ body {
     padding: 0px;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #858585c3;
+    background-color: #858585f5;
 }
 
 
@@ -37,14 +37,16 @@ body {
 }
 
 .navbar-itens a:hover {
-    color: #ccc;
+    color: #FBF74C;
 }
 
+/* logo tipo */
 .logo {
-    width: 50px;
-    margin-top: 15px;
+    width: 80px;
+    margin-left: 15px;
 }
 
+/* botão de entra */
 .navbar-itens .default-btn {
     color: #000000;
     padding: 15px 20px;
@@ -54,36 +56,13 @@ body {
 }
 
 .navbar-itens .default-btn:hover {
-    background-color: #FBF74C;
-    background-color: #FCF750;
-    color: #232a31;
+    background-color: #858585c3;
+    color: #FBF74C;
 }
 
-/* main banner */
-.height-image{
+/* main - carrossel */
+.height-image {
     height: 693px;
-}
-.main-banner {
-    background-image: url('../img/oficina.PNG');
-    padding: 10rem 0;
-    background-size: cover;
-    background-position: center;
-}
-
-.main-banner h1,
-.main-banner p {
-    color: #FCF750;
-    text-align: center;
-    font-weight: bold;
-    text-shadow: #000000 3px 2px 3px;
-}
-
-.main-banner h1 {
-    font-size: 54px;
-}
-
-.main-banner p {
-    font-size: 32px;
 }
 
 /* footer */
