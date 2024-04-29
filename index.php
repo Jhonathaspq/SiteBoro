@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
   <meta charset="UTF-8">
@@ -7,27 +7,27 @@
   <title>Document</title>
   <script src="main.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
   <div class="navbar-container">
     <nav>
-      <a href="../site/index.php">
-        <img src="../img/IMG_1155.JPG" alt="logo garagem33" class="logo img-fluid">
+      <a href="index.php">
+        <img src="img/IMG_1155.JPG" class="logo img-fluid">
       </a>
       <ul class="navbar-itens">
         <li>
-          <a href="../site/index.php">Home</a>
+          <a href="index.php">Home</a>
         </li>
         <li>
-          <a href="../site/cliente.php">Cadastro de Clientes</a>
+          <a href="cliente.php">Cadastro de Clientes</a>
         </li>
         <li>
-          <a href="../site/contatos.php">Orçamento</a>
+          <a href="contatos.php">Orçamento</a>
         </li>
         <li>
-          <a href="../site/login.php" class="default-btn">Entrar</a>
+          <a href="login.php" class="default-btn">Entrar</a>
         </li>
       </ul>
     </nav>
@@ -37,44 +37,44 @@
                 <h1>Garagem 33</h1>
                 <p>Os melhores serviços para o seu veiculo!</p>
             </div> -->
-            <div id="carouselExampleCaptions" class="carousel slide">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="../img/carrossel/1.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 class="temacarousel">Garagem 33</h5>
-        <p>Os melhores serviços para o seu veiculo!.</p>
+    <div id="carouselExampleCaptions" class="carousel slide">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
       </div>
-    </div>
-    <div class="carousel-item">
-      <img src="../img/carrossel/2.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 class="temacarousel">Garagem 33</h5>
-        <p>Para cada problema, uma solução acelerada!</p>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="img/carrossel/1.jpg" class="d-block w-100 carouselmain" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5 class="temacarousel">Garagem 33</h5>
+            <p>Os melhores serviços para o seu veiculo!.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="img/carrossel/2.jpg" class="d-block w-100 carouselmain" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5 class="temacarousel">Garagem 33</h5>
+            <p>Para cada problema, uma solução acelerada!</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="img/carrossel/3.jpg" class="d-block w-100 carouselmain" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5 class="temacarousel">Garagem 33</h5>
+            <p>Seu carro merece mais do que apenas uma oficina. Merece o melhor!</p>
+          </div>
+        </div>
       </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
-    <div class="carousel-item">
-      <img src="../img/carrossel/3.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 class="temacarousel">Garagem 33</h5>
-        <p>Seu carro merece mais do que apenas uma oficina. Merece o melhor!</p>
-      </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
   </main>
   </div>
   <div>
@@ -83,4 +83,5 @@
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
 </body>
+
 </html>

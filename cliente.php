@@ -14,8 +14,8 @@
     <div class="container">
     <div class="navbar-container">
             <nav>
-                <a href="../site/index.php">
-                    <img src="../img/IMG_1155.JPG" alt="logo garagem33" class="logo">
+                <a href="index.php">
+                    <img src="img/IMG_1155.JPG" alt="logo garagem33" class="logo">
                 </a>
                 <ul class="navbar-itens">
                     <li>
