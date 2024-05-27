@@ -1,4 +1,4 @@
 <?php
 // echo  "<script>alert('Funcionou');</script>";
-echo "Funcionou"
+echo "Funcionou o login";
 ?>
