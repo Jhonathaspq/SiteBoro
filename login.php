@@ -1,3 +1,4 @@
 <?php
-echo  "<script>alert('Funcionou');</script>";
+// echo  "<script>alert('Funcionou');</script>";
+echo "Funcionou"
 ?>
